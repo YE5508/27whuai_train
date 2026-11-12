@@ -1,0 +1,4 @@
+/home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/build/CMakeFiles/graphics.dir
+/home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/build/CMakeFiles/image_processing.dir
+/home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/build/CMakeFiles/edit_cache.dir
+/home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/build/CMakeFiles/rebuild_cache.dir

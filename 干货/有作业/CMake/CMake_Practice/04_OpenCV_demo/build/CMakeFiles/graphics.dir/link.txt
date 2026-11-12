@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/lib/libgraphics.a CMakeFiles/graphics.dir/src/graphics/draw.cpp.o
+/usr/bin/ranlib /home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/04_OpenCV_demo/lib/libgraphics.a

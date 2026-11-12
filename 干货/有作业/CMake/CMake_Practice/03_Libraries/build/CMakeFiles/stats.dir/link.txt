@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/03_Libraries/lib/libstats.a CMakeFiles/stats.dir/src/stats.cpp.o
+/usr/bin/ranlib /home/fallinout/E/27whuai_train/干货/有作业/CMake/CMake_Practice/03_Libraries/lib/libstats.a
