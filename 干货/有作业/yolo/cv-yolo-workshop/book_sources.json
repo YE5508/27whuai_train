@@ -1,0 +1,116 @@
+[
+  {
+    "book": "alice",
+    "file": "book_alice.jpg",
+    "title": "Alice's Adventures in Wonderland",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "source_page": "https://openlibrary.org/works/OL138052W",
+    "search_url": "https://openlibrary.org/search.json?title=Alice%27s+Adventures+in+Wonderland&author=Lewis+Carroll&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/10527843-L.jpg?default=false",
+    "cover_id": 10527843,
+    "downloaded_at": "2026-11-20T07:46:41.302046+00:00",
+    "sha256": "5aff8135fd461a567e26075fe1835558e6fe6cce4ce8b71b8e851e02bd6d6bbd",
+    "bytes": 48898,
+    "width": 335,
+    "height": 500,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  },
+  {
+    "book": "sherlock",
+    "file": "book_sherlock.jpg",
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "source_page": "https://openlibrary.org/works/OL262421W",
+    "search_url": "https://openlibrary.org/search.json?title=The+Adventures+of+Sherlock+Holmes&author=Arthur+Conan+Doyle&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/6717853-L.jpg?default=false",
+    "cover_id": 6717853,
+    "downloaded_at": "2026-11-20T07:46:52.028995+00:00",
+    "sha256": "decbb30f1789a51a31657dc3fa5eb64a0c7d3581d63383f5094cf4dd76521ae8",
+    "bytes": 27588,
+    "width": 334,
+    "height": 500,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  },
+  {
+    "book": "jungle",
+    "file": "book_jungle.jpg",
+    "title": "The Jungle Book",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "source_page": "https://openlibrary.org/works/OL19870W",
+    "search_url": "https://openlibrary.org/search.json?title=The+Jungle+Book&author=Rudyard+Kipling&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/3344204-L.jpg?default=false",
+    "cover_id": 3344204,
+    "downloaded_at": "2026-11-20T07:47:01.126650+00:00",
+    "sha256": "ffee52f4e96d319dd725c05ca748e4dabc6b1c2fa142124dd037f47aa11ed61a",
+    "bytes": 18876,
+    "width": 276,
+    "height": 475,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  },
+  {
+    "book": "treasure",
+    "file": "book_treasure.jpg",
+    "title": "Treasure Island",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "source_page": "https://openlibrary.org/works/OL24034W",
+    "search_url": "https://openlibrary.org/search.json?title=Treasure+Island&author=Robert+Louis+Stevenson&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/13859660-L.jpg?default=false",
+    "cover_id": 13859660,
+    "downloaded_at": "2026-11-20T07:47:12.462440+00:00",
+    "sha256": "b25bd6cd34cb7d970190f1c272742debf66609b89a840b39636c750ccf17cbba",
+    "bytes": 57060,
+    "width": 313,
+    "height": 500,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  },
+  {
+    "book": "pride",
+    "file": "book_pride.jpg",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "source_page": "https://openlibrary.org/works/OL66554W",
+    "search_url": "https://openlibrary.org/search.json?title=Pride+and+Prejudice&author=Jane+Austen&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/14348537-L.jpg?default=false",
+    "cover_id": 14348537,
+    "downloaded_at": "2026-11-20T07:47:21.314188+00:00",
+    "sha256": "d470211cc519c266b23bb54db82f30c03da6e94c09f2c5d5bca20e34062610c2",
+    "bytes": 35195,
+    "width": 313,
+    "height": 500,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  },
+  {
+    "book": "oz",
+    "file": "book_oz.jpg",
+    "title": "The Wonderful Wizard of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "source_page": "https://openlibrary.org/works/OL18417W",
+    "search_url": "https://openlibrary.org/search.json?title=The+Wonderful+Wizard+of+Oz&author=L.+Frank+Baum&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cfirst_publish_year",
+    "download_url": "https://covers.openlibrary.org/b/id/552443-L.jpg?default=false",
+    "cover_id": 552443,
+    "downloaded_at": "2026-11-20T07:47:31.159321+00:00",
+    "sha256": "f428e205582b58640af783ae9dcdcdaf9c3b3c4b9e15a801975e8f5d5e587386",
+    "bytes": 52552,
+    "width": 371,
+    "height": 475,
+    "license": "Cover-specific license not supplied by API; rights remain with respective holders.",
+    "usage_reference": "https://openlibrary.org/dev/docs/api/covers"
+  }
+]
