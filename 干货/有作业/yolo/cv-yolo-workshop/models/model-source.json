@@ -1,0 +1,8 @@
+{
+  "file": "yolov8n.pt",
+  "official_source": "https://huggingface.co/Ultralytics/YOLOv8/resolve/main/yolov8n.pt",
+  "download_url": "https://hf-mirror.com/Ultralytics/YOLOv8/resolve/main/yolov8n.pt",
+  "bytes": 6534387,
+  "sha256": "31e20dde3def09e2cf938c7be6fe23d9150bbbe503982af13345706515f2ef95",
+  "verified_against": "https://huggingface.co/Ultralytics/YOLOv8/blob/main/yolov8n.pt"
+}

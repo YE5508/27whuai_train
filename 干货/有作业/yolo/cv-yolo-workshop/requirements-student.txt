@@ -1,0 +1,8 @@
+# Python 3.8–3.11；学生新建环境建议 3.10 或 3.11。
+# Ubuntu x86_64 的 CPU torch 先按指南从官方 CPU 索引安装。
+# 这里不包含容器专用的 /opt 路径或平台特有 wheel 地址。
+numpy==1.24.4
+opencv-python==4.10.0.84
+torch==2.2.2
+torchvision==0.17.2
+ultralytics==8.3.0
